@@ -15,7 +15,6 @@ import matplotlib.patheffects as pe
 import matplotlib.pyplot as plt
 import pandas as pd
 from shapely.geometry import LineString, Point, Polygon
-from shapely.ops import nearest_points
 
 # Inputs
 INCIDENT_CSV_PATH = "GTPD_incidents.csv"

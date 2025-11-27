@@ -93,7 +93,7 @@
     },
     {
       "id": 8,
-      "name": "route_8_zigzag",
+      "name": "route_8",
       "points": [
         [0.0, 0.0],
         [180.0, 60.0],
@@ -132,7 +132,7 @@
     },
     {
       "id": 11,
-      "name": "route_11_almost_straight",
+      "name": "route_11",
       "points": [
         [0.0, 10.0],
         [200.0, 5.0],
@@ -145,7 +145,7 @@
     },
     {
       "id": 12,
-      "name": "route_12_high_dip",
+      "name": "route_12",
       "points": [
         [0.0, 200.0],
         [200.0, 160.0],

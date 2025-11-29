@@ -1,0 +1,2 @@
+route_id,route_name,route_length_m,total_steps,total_alerts,unique_circles_alerted,num_incidents,checks_attempted,sleep_steps,ALERT_RANGE,RISK_RADIUS,SAFE_REGION,hibernate_steps,STEP
+12,route_12,1201.0,121,7,7,9,612,0,100.0,80.0,350.0,5,10.0

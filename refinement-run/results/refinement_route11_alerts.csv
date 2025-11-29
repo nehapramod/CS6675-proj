@@ -1,0 +1,3 @@
+step_id,latitude,longitude,risk_id,IncidentFromDate,IncidentToDate,CaseStatus,Description
+51,509.8406996681426,-2.7460174917035647,4,2025-11-06,2025-11-06,Active,Robbery
+73,729.7719818779295,-8.244299546948238,5,2025-11-06,2025-11-06,Active,Robbery

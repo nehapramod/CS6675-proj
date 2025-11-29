@@ -1,0 +1,2 @@
+route_id,route_name,route_length_m,detour_length,detour_extra_m,total_steps,total_alerts,unique_circles_alerted,num_incidents,checks_attempted,sleep_steps,ALERT_RANGE,RISK_RADIUS,SAFE_REGION,hibernate_steps,STEP,DIRECTION_CONE_ANGLE,CONE_DIST
+11,route_11,1150.4,1600.4,450.0,116,2,2,9,2,0,100.0,80.0,350.0,5,10.0,45.0,120.0

@@ -1,0 +1,4 @@
+step_id,latitude,longitude,risk_id,IncidentFromDate,IncidentToDate,CaseStatus,Description
+7,69.29646455628165,-49.89949493661167,3,2025-11-06,2025-11-06,Active,Aggravated Assault
+49,486.52808953619433,-93.32640447680971,8,2025-11-06,2025-11-06,Active,Theft From Building
+76,754.9908531422368,-80.71559240825188,5,2025-11-06,2025-11-06,Active,Robbery
